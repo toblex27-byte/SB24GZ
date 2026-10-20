@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Michael Jordan",
+    "answers": ["jordan", "michael jordan", "mj"],
+    "clues": [
+      "I was born in Brooklyn, New York, but grew up in North Carolina and played college ball there.",
+      "I won six NBA titles and six Finals MVP awards with one team.",
+      "I wore number 23 for the Chicago Bulls and starred in Space Jam."
+    ]
+  },
+  {
+    "name": "LeBron James",
+    "answers": ["lebron", "lebron james", "king james"],
+    "clues": [
+      "I was born in Akron, Ohio, and went straight from high school to the NBA.",
+      "I have won NBA titles with the Miami Heat, Cleveland Cavaliers and Los Angeles Lakers.",
+      "I became the NBA's all-time leading scorer in 2023."
+    ]
+  },
+  {
+    "name": "Kobe Bryant",
+    "answers": ["kobe", "kobe bryant", "black mamba"],
+    "clues": [
+      "I am the son of a former NBA player and spent part of my childhood in Italy.",
+      "I scored 81 points in a single game in 2006.",
+      "I played 20 seasons for the Lakers and wore numbers 8 and 24."
+    ]
+  },
+  {
+    "name": "Stephen Curry",
+    "answers": ["curry", "stephen curry", "steph curry", "steph"],
+    "clues": [
+      "I am the son of a former NBA player and went to Davidson College.",
+      "I was the first unanimous MVP in NBA history.",
+      "I changed the game with my three-point shooting for the Golden State Warriors."
+    ]
+  },
+  {
+    "name": "Shaquille O'Neal",
+    "answers": ["shaq", "shaquille", "shaquille o'neal", "shaquille oneal", "o'neal", "oneal"],
+    "clues": [
+      "I was the first overall pick in the 1992 draft, selected by the Orlando Magic.",
+      "I won three straight titles with the Lakers from 2000 to 2002, alongside Kobe.",
+      "I am 7'1\" and my nickname is just three letters long: Shaq."
+    ]
+  }
+]
